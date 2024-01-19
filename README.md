@@ -36,7 +36,7 @@ By opening the solution, please go to DenominationRoutine project and run Progra
 
 #### Execution procedure:
 
-Step1: Make sure to either delete or empty the ePayCustomerData.json file, file location is `ePay\CustomerManagement\bin\Debug\net6.0`
+Step1: Make sure to either delete or empty the **ePayCustomerData.json** file, file location is `ePay\CustomerManagement\bin\Debug\net6.0`
 
 Step2: Run the CustomerManagement WebAPI project (Swagger UI will be loaded, feel free to Post and Get customers)
 
